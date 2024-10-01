@@ -1,5 +1,7 @@
 # ATT_QMenu
-## Download and Place "Root.Township.dll" file in C:\Games\Alta\A Township Tale\A Township Tale_Data\Managed
+## Download and Place "Root.Township.dll" file in: 
+
+## C:\Games\Alta\A Township Tale\A Township Tale_Data\Managed
 
 QMenu (Quit Menu) is a menu I made that allows you to expoit on the PCVR version of A Township Tale.
 
