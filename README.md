@@ -1,2 +1,4 @@
 # ATT_QMenu
-A Mod Menu For A Township Tale
+## Place the included "Root.Township.dll" file in C:\Games\Alta\A Township Tale\A Township Tale_Data\Managed
+
+### This is for PCVR ONLY!!!
