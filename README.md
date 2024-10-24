@@ -3,7 +3,7 @@
 
 ## C:\Games\Alta\A Township Tale\A Township Tale_Data\Managed
 
-QMenu (Quit Menu) is a menu I made that allows you to expoit on the PCVR version of A Township Tale.
+QMenu (Quit Menu) is a menu I made that allows you to play on the PCVR version of A Township Tale without a VR.
 
 If you do NOT want to be banned, **DO NOT USE THIS ON OPEN/PUBLIC SERVERS!** If you don't care about being banned, do whatever you want I guess.
 
