@@ -5,6 +5,10 @@
 
 QMenu (Quit Menu) is a menu I made that allows you to play on the PCVR version of A Township Tale without a VR.
 
+Credit to MerelyMiserable for making a non-VR mod before I did.
+(All code related to the "Pancake Mode" is my own version of said mode, all code wrote is my original code)
+
+
 If you do NOT want to be banned, **DO NOT USE THIS ON OPEN/PUBLIC SERVERS!** If you don't care about being banned, do whatever you want I guess.
 
 ### This is for PCVR ONLY!!!
