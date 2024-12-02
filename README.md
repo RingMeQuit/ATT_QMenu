@@ -8,7 +8,7 @@ QMenu (Quit Menu) is a menu I made that allows you to play on the PCVR version o
 If you do NOT want to be banned, **DO NOT USE THIS ON OPEN/PUBLIC SERVERS!** If you don't care about being banned, do whatever you want I guess.
 
 ### This is for PCVR ONLY!!!
-![Screenshot 2024-10-24 191014](https://github.com/user-attachments/assets/c1ec2b92-a203-4ece-afcc-4cd8ef26558e)
+![Screenshot 2024-12-01 223407](https://github.com/user-attachments/assets/1ce119f1-7333-4b82-b57d-4df4bc720858)
 ![Screenshot 2024-10-24 191025](https://github.com/user-attachments/assets/10e8d376-f224-4109-89b4-bf9e6d65e74e)
 
 Credit to MerelyMiserable for making a non-VR mod before I did.
